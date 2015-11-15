@@ -1,12 +1,6 @@
----
- title: "Reproducible Research: Peer Assessment 1 - Personal Activity Monitor"
- author: "Arun Trivedi"
- date: "November 9, 2015"
- output: 
-   html_document: 
-     keep_md: yes
- keep_md: true
----  
+# Reproducible Research: Peer Assessment 1 - Personal Activity Monitor
+Arun Trivedi  
+November 9, 2015  
  Background : 
  Personal activity monitoring device data collected at 5 minute interval between Oct-Nov 2012  
  Dataset : 
